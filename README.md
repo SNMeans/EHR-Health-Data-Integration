@@ -7,7 +7,7 @@ This project at Palmetto Internal Medicine utilizes my expertise in biochemistry
 As an employee at Palmetto Internal Medicine, a healthcare facility utilizing AthenaOne's cloud-based EHR system, I leverage my B.S. in Biochemistry and extensive knowledge in healthcare operations, including HIPAA compliance and patient data security. This project aims to bridge a critical gap in our clinical forms section, ensuring a more comprehensive patient data collection process.
 
 ## Technical Expertise Integration
-Combining proficiency in HTML, CSS, JS, and web development, I've customized a user-centric New Patient Health History form within AthenaOne. This initiative seeks to optimize data collection efficiency, streamline document management, and adhere strictly to healthcare compliance standards.
+Combining proficiency in HTML, CSS, JS, and web development, I've customized a user-centric New Patient Health History form within AthenaOne. This initiative seeks to optimize data collection efficiency, streamline document management, and adhere strictly to healthcare compliance standards.  While the functionality of JavaScript was limited within AthenaOne, I ensured flexibility for future enhancements by leaving provisions to integrate JavaScript functionalities into specific sections if required and/or needed.
 
 ## Project Details
 * Author: Sumi Nia Means
@@ -15,6 +15,8 @@ Combining proficiency in HTML, CSS, JS, and web development, I've customized a u
 
 ## Project Description
 This initiative fills the void of a New Patient Health History form within AthenaOne's clinical forms. The custom form integrates crucial patient data fields, branding elements, and a scannable barcode for streamlined document identification. By encoding essential patient details and document classification into a scannable barcode, AthenaOne enhances accuracy, reduces manual errors, and facilitates efficient document management within the Electronic Health Record system.
+
+Additionally,  this project succeeded in optimizing administrative and clinical workflows within our system, specifically by reducing manual data entry and automating document routing (listed in "Features" below).
 
 ## Features
 * Custom HTML form tailored to clinic requirements
