@@ -1,0 +1,74 @@
+
+body {
+  background-color: white;
+
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin-left: 20px;
+}
+
+input[type=text] {
+  background-color: white;
+  color: white;
+}
+
+input[type=checkbox] {
+  margin: 5px;
+  background-color: white;
+}
+
+label {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  background-color: white;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px;
+}
+
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.left {
+  text-align: left
+}
+
+.new-page {
+  page-break-before: always;
+}
+
+
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section-header {
+  background-color: #ade6d8;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold
+}
+
+
